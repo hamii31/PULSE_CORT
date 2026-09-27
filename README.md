@@ -45,7 +45,10 @@ matplotlib=3.11.1
 
 ## Results
 Sustained oscillation at **CRH = 12.0**: 
-![result](cort_oscillation.jpg)
+![oscillation](crh_12.png)
+
+A beautiful cone-shaped semi-oscillation at **CRH == 11.0**:
+![semi_oscillation](crh_11.png)
 
 ## References
 Walker JJ, Terry JR, Lightman SL (2010). Origin of ultradian pulsatility in
